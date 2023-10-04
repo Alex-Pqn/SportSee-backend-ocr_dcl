@@ -25,7 +25,7 @@ npm install
 ```
 
 #### Start
-Runs the app on [http://localhost:3000](http://localhost:3000)
+Run the app
 ```
 npm run start
 ```
