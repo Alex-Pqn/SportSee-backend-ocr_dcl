@@ -1,4 +1,4 @@
-# Project 9 - Front-end Dashboard
+# OpenClassrooms fork for P12 - "Développeur Concepteur Logiciel"
 
 This repo contains all the source code to run the micro API for the sports analytics dashboard SportSee.
 
@@ -10,17 +10,23 @@ To start this project, you are free to use Docker or not. In this documentation,
 
 ### 2.1 Prerequisites
 
-- [NodeJS (**version 12.18**)](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com/)
+- You will need to have Node and `npm` installed locally on your machine.
 
 If you are working with several versions of NodeJS, we recommend you install [nvm](https://github.com/nvm-sh/nvm). This tool will allow you to easily manage your NodeJS versions.
 
 ### 2.2 Launching the project
 
-- Fork the repository
-- Clone it on your computer.
-- The `yarn` command will allow you to install the dependencies.
-- The `yarn dev` command will allow you to run the micro API.
+#### Install
+Clone then install the app
+```
+npm install
+```
+
+#### Start
+Runs the app on [http://localhost:3000](http://localhost:3000)
+```
+npm run start
+```
 
 
 ## 3. Project (**with Docker**)
