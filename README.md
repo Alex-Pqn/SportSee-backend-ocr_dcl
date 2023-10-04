@@ -1,4 +1,6 @@
-# OpenClassrooms fork for P12 - "Développeur Concepteur Logiciel"
+## Backend - SportSee
+
+### OpenClassrooms fork for P12 - "Développeur Concepteur Logiciel"
 
 This repo contains all the source code to run the micro API for the sports analytics dashboard SportSee.
 
