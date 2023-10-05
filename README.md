@@ -7,8 +7,6 @@ This repo contains all the source code to run the micro API for the sports analy
 > [!NOTE]  
 > To start this project, you are free to use Docker or not. In this documentation, we will see several methods to launch the project easily.
 
----
-
 ## 1. Project (**without Docker**)
 
 ### 1.1 Prerequisites
@@ -31,8 +29,6 @@ Run the app
 npm run start
 ```
 
----
-
 ## 2. Project (**with Docker**)
 
 ### 2.1 Prerequisites
@@ -53,8 +49,6 @@ Finally, if you have VsCode, you can easily launch your project in a docker envi
 You will need the [Remote Development extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack). Once you have this extension installed, just click on the `Reopen in Container` button.
 
 Once in the container, run the `yarn dev` command.
-
----
 
 ## 3. Endpoints
 
