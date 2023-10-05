@@ -4,19 +4,20 @@
 
 This repo contains all the source code to run the micro API for the sports analytics dashboard SportSee.
 
-## 1. General information
+> [!NOTE]  
+> To start this project, you are free to use Docker or not. In this documentation, we will see several methods to launch the project easily.
 
-To start this project, you are free to use Docker or not. In this documentation, we will see several methods to launch the project easily.
+---
 
-## 2. Project (**without Docker**)
+## 1. Project (**without Docker**)
 
-### 2.1 Prerequisites
+### 1.1 Prerequisites
 
 - You will need to have Node and `npm` installed locally on your machine.
 
 If you are working with several versions of NodeJS, we recommend you install [nvm](https://github.com/nvm-sh/nvm). This tool will allow you to easily manage your NodeJS versions.
 
-### 2.2 Launching the project
+### 1.2 Launching the project
 
 #### Install
 Clone then install the app
@@ -30,8 +31,9 @@ Run the app
 npm run start
 ```
 
+---
 
-## 3. Project (**with Docker**)
+## 2. Project (**with Docker**)
 
 ### 2.1 Prerequisites
 
@@ -52,9 +54,11 @@ You will need the [Remote Development extension](https://marketplace.visualstudi
 
 Once in the container, run the `yarn dev` command.
 
-## 4. Endpoints
+---
 
-### 4.1 Possible endpoints
+## 3. Endpoints
+
+### 3.1 Possible endpoints
 
 This project includes four endpoints that you will be able to use: 
 
